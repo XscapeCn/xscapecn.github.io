@@ -63,11 +63,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 176dda9f6173dbb6d170                         #生成的clientID
-  clientSecret: 16632e53c956774ed3926590ba5bde83bcdd7d5f    #生成的clientSecret
-  repo: xscapecn.github.io    #仓库名称
-  owner: XscapeCn    #github用户名
-  admin: xscape
+  clientID: `176dda9f6173dbb6d170`                         #生成的clientID
+  clientSecret: `16632e53c956774ed3926590ba5bde83bcdd7d5f`    #生成的clientSecret
+  repo: `xscapecn.github.io`    #仓库名称
+  owner: `XscapeCn`    #github用户名
+  admin: [`Xscape`]
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
