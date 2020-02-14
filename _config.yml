@@ -101,12 +101,12 @@ service-worker: true
 friends: [
     {
         title: "UCAS",
-        href: "http://zhengwuyang.com"
+        href: "http://sep.ucas.ac.cn"
     },{
         title: "Apple",
         href: "https://apple.com"
     },{
         title: "IGDB",
-        href: "https://genetics.ac.cn/"
+        href: "https://genetics.cas.cn/"
     }
 ]
