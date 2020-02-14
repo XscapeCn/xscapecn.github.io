@@ -10,7 +10,6 @@ tags:
     - Vim
 ---
 
-# VIM
 
 ## Two modes
 
