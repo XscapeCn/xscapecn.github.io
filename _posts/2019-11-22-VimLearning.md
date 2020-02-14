@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Vim基础操作1.0
+subtitle:   
+date:       2019-11-22
+author:     Song
+header-img: img/post-bg-vim.jpg
+catalog: true
+tags:
+    - iOS
+---
+
 # VIM
 
 ## Two modes
