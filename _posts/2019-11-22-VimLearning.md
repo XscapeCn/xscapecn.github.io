@@ -7,7 +7,7 @@ author:     Song
 header-img: img/post-bg-vim.jpg
 catalog: true
 tags:
-    - iOS
+    - Vim
 ---
 
 # VIM
